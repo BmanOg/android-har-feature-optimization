@@ -1,0 +1,6 @@
+model,outer_fold,inner_best_macro_f1,best_params
+pca_svm,1,0.8125330641942742,"{""classifier__C"": 0.1, ""pca__n_components"": 120}"
+pca_svm,2,0.7745018267694069,"{""classifier__C"": 0.001, ""pca__n_components"": 120}"
+pca_svm,3,0.7922171879030874,"{""classifier__C"": 0.01, ""pca__n_components"": 120}"
+pca_svm,4,0.7751055388983225,"{""classifier__C"": 0.001, ""pca__n_components"": 120}"
+pca_svm,5,0.8149993295618531,"{""classifier__C"": 0.01, ""pca__n_components"": 120}"

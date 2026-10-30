@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Multi-Objective Feature Optimization for Cross-Subject Android HAR"
+type: software
+authors:
+  - family-names: "Ogunniran"
+    given-names: "Elijah"
+repository-code: "https://github.com/BmanOg/android-har-feature-optimization"
+license: MIT
+version: 0.1.0
+date-released: 2026-10-29
+

@@ -1,0 +1,6 @@
+{
+  "mean_pairwise_jaccard_top60": 0.7809957111246428,
+  "std_pairwise_jaccard_top60": 0.08076843885146945,
+  "features_selected_in_all_five_folds": 46,
+  "features_selected_in_at_least_four_folds": 53
+}
